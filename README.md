@@ -25,5 +25,4 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abiwendesen&show_icons=true&hide=prs)
+
