@@ -1,6 +1,6 @@
  
 # Hi there, I'm Abdulaziz 👋
-Backend Developer with over 2 years of experience in
+Backend Developer with over 3 years of experience in
 Java, JS, Node.js, NestJS, MySQL, MongoDB, database
 design, and networking. Passionate about learning
 new technologies and building scalable solutions.
@@ -24,6 +24,8 @@ new technologies and building scalable solutions.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat&logo=qdrant&logoColor=white)
+
 
 
 
