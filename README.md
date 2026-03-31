@@ -1,5 +1,10 @@
  
 # Hi there, I'm Abdulaziz 👋
+Backend Developer with over 2 years of experience in
+Java, JS, Node.js, NestJS, MySQL, MongoDB, database
+design, and networking. Passionate about learning
+new technologies and building scalable solutions.
+
 
 ## 🚀 Technologies & Tools:
 - **Languages:** Java, Python, JavaScript, PHP, C++
